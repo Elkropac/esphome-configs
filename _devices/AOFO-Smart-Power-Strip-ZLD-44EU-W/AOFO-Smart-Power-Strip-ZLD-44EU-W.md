@@ -10,9 +10,10 @@ standard: eu
 
 ## Device Information
 
-Wifi Smart Power Strip 4 EU Outlets Plug with 4 USBCharging Port.
+Wifi Smart Power Strip 4 EU Outlets Plug with 4 USB Charging Ports.
 
 Max power: 2400W
+
 Max USB power: 4A
 
 https://www.aliexpress.com/item/32939654903.html
