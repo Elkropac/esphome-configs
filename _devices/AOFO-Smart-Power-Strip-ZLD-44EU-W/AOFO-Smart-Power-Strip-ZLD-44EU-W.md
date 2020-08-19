@@ -5,10 +5,17 @@ type: plug
 standard: eu
 ---
 
-https://www.aliexpress.com/item/32939654903.html
-
 1. TOC
 {:toc}
+
+## Device Information
+
+Wifi Smart Power Strip 4 EU Outlets Plug with 4 USBCharging Port.
+
+Max power: 2400W
+Max USB power: 4A
+
+https://www.aliexpress.com/item/32939654903.html
 
 ## Product images
 
