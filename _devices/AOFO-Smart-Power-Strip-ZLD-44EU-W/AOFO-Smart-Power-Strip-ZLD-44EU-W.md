@@ -16,12 +16,21 @@ Max power: 2400W
 
 Max USB power: 4A
 
+Chip: TYWE2S
+
 https://www.aliexpress.com/item/32939654903.html
 
 ## Product images
 
 ![alt text](/20200816_135301.jpg "AOFO Smart Power Strip ZLD-44EU-W inside 1")
 ![alt text](/20200819_112354.jpg "AOFO Smart Power Strip ZLD-44EU-W inside 2")
+
+## Flashing
+
+As tuya_convert did not work (new PSK format), it is needed to flash it by hand. It has 6 screws with tri-angle heads. Once inside, you have to remove PCB with sockets to get to other side. Then you solder wires to pins on chip.
+
+![alt text](/20200819_115941.jpg "while flashing")
+
 
 ## GPIO Pinout
 
