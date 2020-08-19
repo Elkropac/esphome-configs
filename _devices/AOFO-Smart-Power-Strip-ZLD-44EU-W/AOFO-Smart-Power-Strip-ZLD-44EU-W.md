@@ -18,7 +18,7 @@ Max USB power: 4A
 
 Chip: TYWE2S
 
-(https://www.aliexpress.com/item/32939654903.html)
+[Link to product](https://www.aliexpress.com/item/32939654903.html)
 
 ## Product images
 
